@@ -1,0 +1,24 @@
+.Content-Box{
+    padding: 30px;
+    margin: 15px;
+}
+.Container{
+    padding: 30px;
+}
+.Container .Question-section{
+
+}
+.Container .Answer-section{
+
+}
+.Answer-section .Answer-contentBox{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+.Answer-contentBox .Checkbox-section{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: #e9e9e942;
+}
